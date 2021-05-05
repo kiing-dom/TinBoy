@@ -19,3 +19,6 @@ series of trials that may include parkour and quick thinking, to prove that the 
 Changes to the Final Game:
 There are some inconsistencies with the GameDocument, that we couldn't iron out, like the score counter and collecting gears. These features did not make it into the final game
 
+Navigating the Folders:
+The Game is in the Play Folder (run the executable file to play)
+The Game Document is in the Docs Folder
